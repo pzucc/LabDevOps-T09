@@ -1,3 +1,5 @@
+# REMOVER AS LINHAS
+
 @app.route('/bug')
 def bad():
     try:
